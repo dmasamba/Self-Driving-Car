@@ -8,11 +8,11 @@ In this environment, the self driving car drives around the track and get reward
 
 Performance Before Training the Car
 
-<img src="images/car_racing_no_training.gif" width="80%"/>
+<img src="images/car_racing_no_training.gif" width="60%"/>
 
 Performance After Training the Car
 
-<img src="images/car_racing_best_model.gif" width="80%" />
+<img src="images/car_racing_best_model.gif" width="60%" />
 
 ## Reference
 
