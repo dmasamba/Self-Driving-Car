@@ -1,10 +1,10 @@
-# Box2D Self Driving Car (Summer 2022 Project)
+# Box2D Self-Driving Car (Summer 2022 Project)
 
- This is a Box2D Self Driving Car environment in OpenAI gym. I did this project as part of my introduction to Reinforcement Learning. I implemented it with the help of Stable Baselines3 which is a set of reliable implementations of Reinforcement Learning algorithms in PyTorch. The algorithm used to complete this environment is Proximal Policy Optimization (PPO).
+ This is a Box2D Self-Driving Car environment in OpenAI gym. I did this project as part of my introduction to Reinforcement Learning. I implemented it with the help of Stable Baselines3 which is a set of reliable implementations of Reinforcement Learning algorithms in PyTorch. The algorithm used to complete this environment is Proximal Policy Optimization (PPO).
 
 ## How it works
 
-In this environment, the self driving car drives around the track and get rewards if it stays on the track by driving at a fast pace. The car starts at rest in the center of the road and the episode finishes when all of the tiles are visited or when the car go outside of the playfield far off the track.
+In this environment, the self-driving car drives on the track and gets rewards if it stays on the track while driving at a fast pace. The car starts at rest in the center of the road and the episode ends when all tiles are visited or when the car leaves the playfield far off the track.
 
 Performance Before Training the Car
 
